@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Darren_Tung.github.io/static/css/main.436a47d0.css",
-    "main.js": "/Darren_Tung.github.io/static/js/main.ee4bd0cc.js",
+    "main.js": "/Darren_Tung.github.io/static/js/main.b7873333.js",
     "static/js/787.d4aba7ab.chunk.js": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js",
     "static/media/profile.jpg": "/Darren_Tung.github.io/static/media/profile.01418214281c985a42bb.jpg",
     "index.html": "/Darren_Tung.github.io/index.html",
     "main.436a47d0.css.map": "/Darren_Tung.github.io/static/css/main.436a47d0.css.map",
-    "main.ee4bd0cc.js.map": "/Darren_Tung.github.io/static/js/main.ee4bd0cc.js.map",
+    "main.b7873333.js.map": "/Darren_Tung.github.io/static/js/main.b7873333.js.map",
     "787.d4aba7ab.chunk.js.map": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.436a47d0.css",
-    "static/js/main.ee4bd0cc.js"
+    "static/js/main.b7873333.js"
   ]
 }
