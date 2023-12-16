@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Darren_Tung.github.io/static/css/main.dd5bc4eb.css",
+    "main.js": "/Darren_Tung.github.io/static/js/main.e6766fa6.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Darren_Tung.github.io/index.html",
+    "main.dd5bc4eb.css.map": "/Darren_Tung.github.io/static/css/main.dd5bc4eb.css.map",
+    "main.e6766fa6.js.map": "/Darren_Tung.github.io/static/js/main.e6766fa6.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd5bc4eb.css",
+    "static/js/main.e6766fa6.js"
+  ]
+}
