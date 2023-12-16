@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Darren_Tung.github.io/static/css/main.436a47d0.css",
-    "main.js": "/Darren_Tung.github.io/static/js/main.b7873333.js",
+    "main.css": "/Darren_Tung.github.io/static/css/main.33b0d2ab.css",
+    "main.js": "/Darren_Tung.github.io/static/js/main.a6a580eb.js",
     "static/js/787.d4aba7ab.chunk.js": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js",
-    "static/media/profile.jpg": "/Darren_Tung.github.io/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/profile2.jpg": "/Darren_Tung.github.io/static/media/profile2.46052d54d77fbb86047c.jpg",
     "index.html": "/Darren_Tung.github.io/index.html",
-    "main.436a47d0.css.map": "/Darren_Tung.github.io/static/css/main.436a47d0.css.map",
-    "main.b7873333.js.map": "/Darren_Tung.github.io/static/js/main.b7873333.js.map",
+    "main.33b0d2ab.css.map": "/Darren_Tung.github.io/static/css/main.33b0d2ab.css.map",
+    "main.a6a580eb.js.map": "/Darren_Tung.github.io/static/js/main.a6a580eb.js.map",
     "787.d4aba7ab.chunk.js.map": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.436a47d0.css",
-    "static/js/main.b7873333.js"
+    "static/css/main.33b0d2ab.css",
+    "static/js/main.a6a580eb.js"
   ]
 }
