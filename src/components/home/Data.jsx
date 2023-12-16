@@ -56,11 +56,8 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Computer Science Student</h3>
         <p className="home__description">
-            I'm a highly motivated and technically skilled computer science student known 
-            for my competitive drive and leadership experience. With a passion for technology, 
-            I thrive in challenging environments, collaborating effectively within teams and 
-            delivering top-notch results. Active in community service, I bring a holistic 
-            perspective to my work, aiming to leverage technology for both innovation and societal betterment.
+            Hi there! I'm a enthusiastic guy that loves programming, entrepreneurship and technology. 
+            To me, Efficiency is Key, and Quality is something we should always strive for.
         </p>
         <a href="#contact" className="button button--flex">
             Say Hello
