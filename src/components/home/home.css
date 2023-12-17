@@ -124,6 +124,10 @@
         column-gap: 1.25rem;
     }
 
+    .home__title {
+        font-size: 40px;
+    }
+
     .home__hand {
         width: 26px;
         height: 26px;
@@ -162,6 +166,10 @@
         padding-top: 3.5rem;
     }
 
+    .home__title {
+        font-size: 40px;
+    }
+
     .home__img {
         order: initial;
         justify-items: initial;
@@ -180,6 +188,22 @@
   }
   /* For small devices */
   @media screen and (max-width: 350px) {
+    .home__title {
+        font-size: 35px;
+    }
+
+    .home__subtitle {
+        font-size: 15px;
+    }
+
+    .home__description {
+        font-size: 15px;
+    }
+
+    .button--flex {
+        font-size: 12px;
+    }
+
     .home__img {
         width: 180px;
         height: 180px;
