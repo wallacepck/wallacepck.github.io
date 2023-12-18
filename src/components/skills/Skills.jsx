@@ -1,7 +1,7 @@
 import React from 'react';
 import "./skills.css";
-import Frontend from './Frontend';
-import Backend from './Backend';
+import Languages from './Languages';
+import Framework_Resources from './Framework_Resources';
 
 const Skills = () => {
   return (
@@ -15,8 +15,8 @@ const Skills = () => {
         </div>
 
         <div className="skills__container container grid">
-            <Frontend />
-            <Backend />
+            <Languages />
+            <Framework_Resources />
         </div>
     </section>
   )
