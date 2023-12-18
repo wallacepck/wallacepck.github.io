@@ -10,7 +10,7 @@ const Skills = () => {
         <span className="section__subtitle">My Technical Level</span>
         <div className="section__subsubtitle">
           <i class="fa-solid fa-diamond"></i> 
-          A Jack of All Trades
+          Jack of All Trades
           <i class="fa-solid fa-diamond"></i>
         </div>
 

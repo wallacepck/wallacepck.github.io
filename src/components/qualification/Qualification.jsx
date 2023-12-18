@@ -44,10 +44,10 @@ const Qualification = () => {
                 }>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Product Manager</h3>
-                            <span className="qualification__subtitle">NUS</span>
+                            <h3 className="qualification__title">B.Comp in Computer Science</h3>
+                            <span className="qualification__subtitle">National University of Singapore</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                <i className="uil uil-calendar-alt"></i> 2023 - Present
                             </div>
                         </div>
                         <div>
@@ -65,73 +65,25 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className="qualification__title">Art Director</h3>
-                            <span className="qualification__subtitle">NUS</span>
+                            <h3 className="qualification__title">Diploma in Engineering Science</h3>
+                            <span className="qualification__subtitle">Ngee Ann Polytechnic</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                <i className="uil uil-calendar-alt"></i> 2018 - 2021
                             </div>
                         </div>
                     </div>
 
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Web development</h3>
-                            <span className="qualification__subtitle">DSO</span>
+                            <h3 className="qualification__title">O Level's</h3>
+                            <span className="qualification__subtitle">West Spring Secondary School</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                <i className="uil uil-calendar-alt"></i> 2014 - 2017
                             </div>
                         </div>
                         <div>
                             <span className="qualification__rounder"></span>
                             <span className="qualification__line"></span>
-                        </div>
-                    </div>
-
-                    <div className="qualification__data">
-                        <div></div>
-
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-
-                        <div>
-                            <h3 className="qualification__title">UX Expert</h3>
-                            <span className="qualification__subtitle">NUS</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2027 - 2018
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="qualification__data">
-                        <div>
-                            <h3 className="qualification__title">Web development</h3>
-                            <span className="qualification__subtitle">DSTA</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2018 - 2020
-                            </div>
-                        </div>
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-                    </div>
-
-                    <div className="qualification__data">
-                        <div></div>
-
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-
-                        <div>
-                            <h3 className="qualification__title">UX Expert</h3>
-                            <span className="qualification__subtitle">NUS</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2027 - 2018
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -143,10 +95,10 @@ const Qualification = () => {
                 }>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Product tester</h3>
-                            <span className="qualification__subtitle">NUS</span>
+                            <h3 className="qualification__title">Admin & Training Specialist</h3>
+                            <span className="qualification__subtitle">Minstry of Defence (NS)</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                <i className="uil uil-calendar-alt"></i> 2021 - 2023
                             </div>
                         </div>
                         <div>
@@ -164,72 +116,10 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className="qualification__title">Art collector</h3>
-                            <span className="qualification__subtitle">NUS</span>
+                            <h3 className="qualification__title">Software Engineer Intern</h3>
+                            <span className="qualification__subtitle">Defence Science & Technology Agency</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - Present
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="qualification__data">
-                        <div>
-                            <h3 className="qualification__title">Web development</h3>
-                            <span className="qualification__subtitle">DSO</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - Present
-                            </div>
-                        </div>
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-                    </div>
-
-                    <div className="qualification__data">
-                        <div></div>
-
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-
-                        <div>
-                            <h3 className="qualification__title">UX Expert</h3>
-                            <span className="qualification__subtitle">NUS</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2027 - 2018
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="qualification__data">
-                        <div>
-                            <h3 className="qualification__title">Web development</h3>
-                            <span className="qualification__subtitle">DSTA</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2018 - 2020
-                            </div>
-                        </div>
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-                    </div>
-
-                    <div className="qualification__data">
-                        <div></div>
-
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-
-                        <div>
-                            <h3 className="qualification__title">UX Expert</h3>
-                            <span className="qualification__subtitle">NUS</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2027 - 2018
+                                <i className="uil uil-calendar-alt"></i> 2021 - 2021
                             </div>
                         </div>
                     </div>
