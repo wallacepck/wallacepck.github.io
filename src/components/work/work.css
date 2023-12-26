@@ -45,6 +45,20 @@
     margin-bottom: var(--mb-0-5);
 }
 
+.work__backgroundTitle {
+    font-size: 0.8rem;
+    color: black;
+    margin-bottom: 0.75rem;
+    width: 295px;
+}
+
+.work__background {
+    font-size: 0.75rem;
+    color: black;
+    margin-bottom: 0.75rem;
+    width: 295px;
+}
+
 .work__button {
     color: var(--text-color);
     font-size: var(--small-font-size);
