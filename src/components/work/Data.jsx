@@ -11,7 +11,7 @@ export const projectsData = [
       image: Work1,
       title: "Parade State Project",
       category: "Non-school",
-      backgroundTitle: "A project from Jan 2022.",
+      backgroundTitle: "A project from Jan 2022. *SENSITIVE*",
       background: "The system in MINDEF can be very inefficent, hence created created 1 Microsoft Excel macro project using Microsoft VBA and Created 2 Telegram Bots using Google App Script | @BMTC_Athena_Bot & @Athena_MC_Bot",
       link: "https://drive.google.com/file/d/18pl2Rn5UUkmvBA5IxlcUsSUNbdRFXsTK/view?usp=sharing",
     },
@@ -20,7 +20,7 @@ export const projectsData = [
       image: Work2,
       title: "AI Chatbot & MLOps",
       category: "Non-School",
-      backgroundTitle: "Projects from May 2021 at DSTA.",
+      backgroundTitle: "Projects from May 2021. *SENSITIVE*",
       background: "Worked on an AI chatbot including Rasa Open Source, and worked on a project on Harbor, Docker and MLOps",
       link: "https://rasa.com/docs/rasa/",
     },
@@ -58,7 +58,7 @@ export const projectsData = [
       category: "Non-school",
       backgroundTitle: "Participated in 2018 and 2019.",
       background: "Every year participants are given a challenge project to achieve using robotics",
-      link: "https://drive.google.com/file/d/17zSOAsQ2pmVJUwayGophEfGVmdz96ogB/view?usp=sharing",
+      link: "https://drive.google.com/drive/folders/1epiUtKWWU-Zr_Q7pvQ0DS0X2FiAdnHeQ?usp=sharing",
     },
 ];
 
