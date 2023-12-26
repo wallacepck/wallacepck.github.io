@@ -3,12 +3,13 @@ import "./contact.css";
 
 const Contact = () => {
   //const form = useRef();
-  const form = document.forms['contact_form']
+  //const form = document.forms['contact_form']
   const scriptURL = 'https://script.google.com/macros/s/AKfycbyj_JXYqEZd-UX7orr3yxjn6ZZCTj8AutvKwZGKC73UdIcERP46_ZPzZUhD3FsBzkzEyw/exec'
-  const reply_msg = document.getElementById("reply_msg")
+  const reply_msg = document.getElementsByClassName("contact__replyMsg")
 
   const sendEmail = (e) => {
     e.preventDefault();
+    const form = document.forms['contact_form']
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
         .then(response => {
             console.log('Success!', response)
@@ -67,19 +68,19 @@ const Contact = () => {
                 <form onSubmit={sendEmail} className="contact__form" name="contact_form">
                     <div className="contact__form-div">
                         <label className="contact__form-tag">Name</label>
-                        <input type="text" name="Name" className="contact__form-input" 
+                        <input type="text" name="name" className="contact__form-input" 
                         placeholder="Insert your name" required/>
                     </div>
 
                     <div className="contact__form-div">
                         <label className="contact__form-tag">Email</label>
-                        <input type="email" name="Email" className="contact__form-input" 
+                        <input type="email" name="email" className="contact__form-input" 
                         placeholder="Insert your email" required/>
                     </div>
 
                     <div className="contact__form-div contact__form-area">
                         <label className="contact__form-tag">Message</label>
-                        <textarea name="Message" cols="30" rows="10" 
+                        <textarea name="message" cols="30" rows="10" 
                         className="contact__form-input" placeholder="Leave me a note"></textarea>
                     </div>
 
@@ -104,7 +105,7 @@ const Contact = () => {
                         </svg>
                     </button>
                 </form>
-                <span id="reply_msg"></span>
+                <span className="contact__replyMsg" id="reply_msg"></span>
             </div>
         </div>
     </section>
