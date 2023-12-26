@@ -5,11 +5,12 @@ const Contact = () => {
   //const form = useRef();
   //const form = document.forms['contact_form']
   const scriptURL = 'https://script.google.com/macros/s/AKfycbyj_JXYqEZd-UX7orr3yxjn6ZZCTj8AutvKwZGKC73UdIcERP46_ZPzZUhD3FsBzkzEyw/exec'
-  const reply_msg = document.getElementsByClassName("contact__replyMsg")
-
+  
   const sendEmail = (e) => {
     e.preventDefault();
     const form = document.forms['contact_form']
+    const reply_msg = document.getElementById("reply_msg")
+
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
         .then(response => {
             console.log('Success!', response)
