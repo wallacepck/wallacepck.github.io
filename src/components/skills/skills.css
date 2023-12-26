@@ -71,24 +71,44 @@
     .skills__container {
         grid-template-columns: repeat(1, 475px);
         row-gap: 2rem;
+        justify-content: center;
     }
   }
   
   /* For medium devices */
   @media screen and (max-width: 576px) {
     .skills__container {
-        grid-template-columns: 1fr;
+        grid-template-columns: 0.5fr;
+        row-gap: 1rem;
+        justify-content: center;
+    }
+
+    .skills__box {
+        display: flex;
+        justify-content: center;
+        column-gap: 0.8rem;
     }
 
     .skills__content {
-        padding: 1.5rem;
+        padding: 0.75rem;
     }
   }
   
   /* For small devices */
   @media screen and (max-width: 350px) {
+    .skills__container {
+        grid-template-columns: 1fr;
+        justify-content: center;
+    }
+
     .skills__box {
-        column-gap: 1.25rem;
+        display: flex;
+        justify-content: center;
+        column-gap: 0.1rem;
+    }
+
+    .skills__content {
+        padding: 1rem;
     }
 
     .skills__name {
