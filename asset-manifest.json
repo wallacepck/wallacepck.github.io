@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Darren_Tung.github.io/static/css/main.c30d3b05.css",
-    "main.js": "/Darren_Tung.github.io/static/js/main.e187e397.js",
+    "main.css": "/Darren_Tung.github.io/static/css/main.b9933bab.css",
+    "main.js": "/Darren_Tung.github.io/static/js/main.48d89194.js",
     "static/js/787.d4aba7ab.chunk.js": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js",
     "static/media/about.jpg": "/Darren_Tung.github.io/static/media/about.46052d54d77fbb86047c.jpg",
     "static/media/profile2.jpg": "/Darren_Tung.github.io/static/media/profile2.46052d54d77fbb86047c.jpg",
     "static/media/Tung_Yan_Zuo_CV.pdf": "/Darren_Tung.github.io/static/media/Tung_Yan_Zuo_CV.a1853fb677bdf896b710.pdf",
     "index.html": "/Darren_Tung.github.io/index.html",
-    "main.c30d3b05.css.map": "/Darren_Tung.github.io/static/css/main.c30d3b05.css.map",
-    "main.e187e397.js.map": "/Darren_Tung.github.io/static/js/main.e187e397.js.map",
+    "main.b9933bab.css.map": "/Darren_Tung.github.io/static/css/main.b9933bab.css.map",
+    "main.48d89194.js.map": "/Darren_Tung.github.io/static/js/main.48d89194.js.map",
     "787.d4aba7ab.chunk.js.map": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c30d3b05.css",
-    "static/js/main.e187e397.js"
+    "static/css/main.b9933bab.css",
+    "static/js/main.48d89194.js"
   ]
 }
