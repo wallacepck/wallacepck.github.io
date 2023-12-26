@@ -1,7 +1,26 @@
-import React from 'react'
+import React, { useRef } from 'react'
 import "./contact.css";
 
 const Contact = () => {
+  //const form = useRef();
+  const form = document.forms['contact_form']
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbyj_JXYqEZd-UX7orr3yxjn6ZZCTj8AutvKwZGKC73UdIcERP46_ZPzZUhD3FsBzkzEyw/exec'
+  const reply_msg = document.getElementById("reply_msg")
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response => {
+            console.log('Success!', response)
+            reply_msg.innerHTML = "Message Sent Successfully"
+            setTimeout(function(){
+                reply_msg.innerHTML = ""
+            }, 5000)
+            form.reset()
+        })
+        .catch(error => console.error('Error!', error.message))
+  };
+
   return (
     <section className="contact section" id="contact">
         <h2 className="section__title">Get in touch</h2>
@@ -21,29 +40,46 @@ const Contact = () => {
                         <a href="mailto:darrentung01@gmail.com" className="contact__button">Write me 
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
+                </div>
 
+                <div className="contact__social">
+                    <a href="https://t.me/dat_yanzuo" className="contact__social-icon" target="_blank">
+                        <i class="fa-brands fa-telegram"></i>
+                    </a>
+
+                    <a href="https://linkedin.com/in/darren-tung-271113168/" className="contact__social-icon" target="_blank">
+                        <i class="fa-brands fa-linkedin"></i>
+                    </a>
+
+                    <a href="https://discordapp.com/users/222725107309608960" className="contact__social-icon" target="_blank">
+                        <i class="fa-brands fa-discord"></i>
+                    </a>
+
+                    <a href="https://www.instagram.com/dat_yanzuo/" className="contact__social-icon" target="_blank">
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
                 </div>
             </div>
 
             <div className="contact__content">
                 <h3 className="contact__title">Leave me a message</h3>
 
-                <form className="contact__form">
+                <form onSubmit={sendEmail} className="contact__form" name="contact_form">
                     <div className="contact__form-div">
                         <label className="contact__form-tag">Name</label>
-                        <input type="text" name="name" className="contact__form-input" 
-                        placeholder="Insert your name" />
+                        <input type="text" name="Name" className="contact__form-input" 
+                        placeholder="Insert your name" required/>
                     </div>
 
                     <div className="contact__form-div">
                         <label className="contact__form-tag">Email</label>
-                        <input type="email" name="email" className="contact__form-input" 
-                        placeholder="Insert your email" />
+                        <input type="email" name="Email" className="contact__form-input" 
+                        placeholder="Insert your email" required/>
                     </div>
 
                     <div className="contact__form-div contact__form-area">
                         <label className="contact__form-tag">Message</label>
-                        <textarea name="message" cols="30" rows="10" 
+                        <textarea name="Message" cols="30" rows="10" 
                         className="contact__form-input" placeholder="Leave me a note"></textarea>
                     </div>
 
@@ -68,6 +104,7 @@ const Contact = () => {
                         </svg>
                     </button>
                 </form>
+                <span id="reply_msg"></span>
             </div>
         </div>
     </section>
