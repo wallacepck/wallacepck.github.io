@@ -56,8 +56,8 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Computer Science Student</h3>
         <p className="home__description">
-            Hi there! I'm a enthusiastic guy that loves programming, entrepreneurship and technology. 
-            To me, Efficiency is Key, and Quality is something we should always strive for.
+            Hi there! I'm an enthusiastic guy that loves programming, entrepreneurship and technology. 
+            To me, efficiency is key, and quality is something we should always strive for.
         </p>
         <a href="#contact" className="button button--flex">
             Say Hello
