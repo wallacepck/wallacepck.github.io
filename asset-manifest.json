@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Darren_Tung.github.io/static/css/main.c6eb6670.css",
-    "main.js": "/Darren_Tung.github.io/static/js/main.0c26e956.js",
+    "main.js": "/Darren_Tung.github.io/static/js/main.96aadf14.js",
     "static/js/787.d4aba7ab.chunk.js": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js",
     "static/media/about.jpg": "/Darren_Tung.github.io/static/media/about.46052d54d77fbb86047c.jpg",
     "static/media/profile2.jpg": "/Darren_Tung.github.io/static/media/profile2.46052d54d77fbb86047c.jpg",
@@ -14,11 +14,11 @@
     "static/media/ParadeStateProj.jpg": "/Darren_Tung.github.io/static/media/ParadeStateProj.831d98c62ba9bf083bb3.jpg",
     "index.html": "/Darren_Tung.github.io/index.html",
     "main.c6eb6670.css.map": "/Darren_Tung.github.io/static/css/main.c6eb6670.css.map",
-    "main.0c26e956.js.map": "/Darren_Tung.github.io/static/js/main.0c26e956.js.map",
+    "main.96aadf14.js.map": "/Darren_Tung.github.io/static/js/main.96aadf14.js.map",
     "787.d4aba7ab.chunk.js.map": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6eb6670.css",
-    "static/js/main.0c26e956.js"
+    "static/js/main.96aadf14.js"
   ]
 }
