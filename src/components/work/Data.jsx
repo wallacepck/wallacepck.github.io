@@ -12,7 +12,7 @@ export const projectsData = [
       title: "Parade State Project",
       category: "Non-School",
       backgroundTitle: "A project from Jan 2022. *SENSITIVE*",
-      background: "The system in MINDEF can be very inefficent, hence created created 1 Microsoft Excel macro project using Microsoft VBA and Created 2 Telegram Bots using Google App Script | @BMTC_Athena_Bot & @Athena_MC_Bot",
+      background: "The system in MINDEF can be very inefficent, hence I created one Microsoft Excel macro project using Microsoft VBA and create two Telegram Bots using Google App Script | @BMTC_Athena_Bot & @Athena_MC_Bot",
       link: "https://drive.google.com/file/d/18pl2Rn5UUkmvBA5IxlcUsSUNbdRFXsTK/view?usp=sharing",
     },
     {
