@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Darren_Tung.github.io/static/css/main.c6eb6670.css",
-    "main.js": "/Darren_Tung.github.io/static/js/main.9879a479.js",
+    "main.js": "/Darren_Tung.github.io/static/js/main.1c0235d1.js",
     "static/js/787.d4aba7ab.chunk.js": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js",
-    "static/media/about.jpg": "/Darren_Tung.github.io/static/media/about.46052d54d77fbb86047c.jpg",
     "static/media/profile2.jpg": "/Darren_Tung.github.io/static/media/profile2.46052d54d77fbb86047c.jpg",
+    "static/media/profile3.jpg": "/Darren_Tung.github.io/static/media/profile3.ba6f1cac5bc3941e4e90.jpg",
     "static/media/Tung_Yan_Zuo_CV.pdf": "/Darren_Tung.github.io/static/media/Tung_Yan_Zuo_CV.89dfb83a57b08b0f64f4.pdf",
     "static/media/dsta.png": "/Darren_Tung.github.io/static/media/dsta.0e6d76d7c6ace7063a09.png",
     "static/media/Rnd_project1.jpg": "/Darren_Tung.github.io/static/media/Rnd_project1.74f8997ec7fffc8cbc9f.jpg",
@@ -14,11 +14,11 @@
     "static/media/ParadeStateProj.jpg": "/Darren_Tung.github.io/static/media/ParadeStateProj.831d98c62ba9bf083bb3.jpg",
     "index.html": "/Darren_Tung.github.io/index.html",
     "main.c6eb6670.css.map": "/Darren_Tung.github.io/static/css/main.c6eb6670.css.map",
-    "main.9879a479.js.map": "/Darren_Tung.github.io/static/js/main.9879a479.js.map",
+    "main.1c0235d1.js.map": "/Darren_Tung.github.io/static/js/main.1c0235d1.js.map",
     "787.d4aba7ab.chunk.js.map": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6eb6670.css",
-    "static/js/main.9879a479.js"
+    "static/js/main.1c0235d1.js"
   ]
 }
