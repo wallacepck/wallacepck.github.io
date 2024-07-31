@@ -7,7 +7,7 @@ const Contact = () => {
   const scriptURL = 'https://script.google.com/macros/s/AKfycbyj_JXYqEZd-UX7orr3yxjn6ZZCTj8AutvKwZGKC73UdIcERP46_ZPzZUhD3FsBzkzEyw/exec'
   
   const sendEmail = (e) => {
-    e.preventDefault();
+    e.preventDefault()
     const form = document.forms['contact_form']
     const reply_msg = document.getElementById("reply_msg")
 
@@ -45,16 +45,16 @@ const Contact = () => {
                 </div>
 
                 <div className="contact__social">
+                    <a href="https://github.com/Darren-Tung" className="contact__social-icon" target="_blank">
+                        <i class="fa-brands fa-github"></i>
+                    </a>
+
                     <a href="https://t.me/dat_yanzuo" className="contact__social-icon" target="_blank">
                         <i class="fa-brands fa-telegram"></i>
                     </a>
 
                     <a href="https://linkedin.com/in/darren-tung-271113168/" className="contact__social-icon" target="_blank">
                         <i class="fa-brands fa-linkedin"></i>
-                    </a>
-
-                    <a href="https://discordapp.com/users/222725107309608960" className="contact__social-icon" target="_blank">
-                        <i class="fa-brands fa-discord"></i>
                     </a>
 
                     <a href="https://www.instagram.com/dat_yanzuo/" className="contact__social-icon" target="_blank">

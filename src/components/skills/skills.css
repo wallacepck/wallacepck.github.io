@@ -25,6 +25,15 @@
     border-radius: 1.25rem;
 }
 
+.skills__img {
+    margin-top: 0.3rem;
+    margin-right: 0.3rem;
+    width: 25px;
+    height: 25px;
+    border-radius: 0.25rem;
+    justify-self: center;
+}
+
 .skills__title {
     font-size: 18px;
     font-weight: var(--font-medium);
@@ -47,7 +56,7 @@
 .skills__data {
     display: flex;
     column-gap: 0.5rem;
-    width: 165px;
+    width: 185px;
 }
 
 .skills .bx-badge-check {

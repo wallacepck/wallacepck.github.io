@@ -20,7 +20,10 @@ const About = () => {
                     I'm a highly motivated and technically skilled computer science student known 
                     for my competitive drive and leadership experience. With a passion for technology, 
                     I thrive in challenging environments, collaborating effectively within teams and 
-                    delivering top-notch results. <br></br><br></br>Active in community service, I also 
+                    delivering top-notch results. 
+                    <br></br>
+                    <br></br>
+                    Active in community service, I also 
                     bring a holistic perspective to my work, aiming to leverage technology 
                     for both innovation and societal betterment.
                 </p>
