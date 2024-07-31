@@ -1,24 +1,35 @@
 {
   "files": {
-    "main.css": "/Darren_Tung.github.io/static/css/main.c6eb6670.css",
-    "main.js": "/Darren_Tung.github.io/static/js/main.1c0235d1.js",
+    "main.css": "/Darren_Tung.github.io/static/css/main.28b7594c.css",
+    "main.js": "/Darren_Tung.github.io/static/js/main.635d9324.js",
     "static/js/787.d4aba7ab.chunk.js": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js",
     "static/media/profile2.jpg": "/Darren_Tung.github.io/static/media/profile2.46052d54d77fbb86047c.jpg",
     "static/media/profile3.jpg": "/Darren_Tung.github.io/static/media/profile3.ba6f1cac5bc3941e4e90.jpg",
-    "static/media/Tung_Yan_Zuo_CV.pdf": "/Darren_Tung.github.io/static/media/Tung_Yan_Zuo_CV.89dfb83a57b08b0f64f4.pdf",
+    "static/media/Tung_Yan_Zuo_CV.pdf": "/Darren_Tung.github.io/static/media/Tung_Yan_Zuo_CV.892ff99d8ef00f8cdd5e.pdf",
     "static/media/dsta.png": "/Darren_Tung.github.io/static/media/dsta.0e6d76d7c6ace7063a09.png",
+    "static/media/skills_nodeJS_icon.png": "/Darren_Tung.github.io/static/media/skills_nodeJS_icon.14cdee7fa498e8a7c7d3.png",
+    "static/media/skills_firebase_icon.png": "/Darren_Tung.github.io/static/media/skills_firebase_icon.3760741c1e30456d53ff.png",
+    "static/media/skills_cv2_icon.png": "/Darren_Tung.github.io/static/media/skills_cv2_icon.6c68f4af1ba700bab410.png",
     "static/media/Rnd_project1.jpg": "/Darren_Tung.github.io/static/media/Rnd_project1.74f8997ec7fffc8cbc9f.jpg",
     "static/media/NRC_Robot.jpg": "/Darren_Tung.github.io/static/media/NRC_Robot.8cfc82468cc496028107.jpg",
     "static/media/FYP_robot1.jpg": "/Darren_Tung.github.io/static/media/FYP_robot1.eb0bd70787fdfa185a4d.jpg",
     "static/media/LegoProject.png": "/Darren_Tung.github.io/static/media/LegoProject.15c1eabe4d27a190083f.png",
+    "static/media/skills_javascript_icon.png": "/Darren_Tung.github.io/static/media/skills_javascript_icon.83f816a137ee2ef5f733.png",
+    "static/media/skills_google_app_script_icon.png": "/Darren_Tung.github.io/static/media/skills_google_app_script_icon.bf91e879fed07f7747fd.png",
     "static/media/ParadeStateProj.jpg": "/Darren_Tung.github.io/static/media/ParadeStateProj.831d98c62ba9bf083bb3.jpg",
+    "static/media/skills_VBA_icon.png": "/Darren_Tung.github.io/static/media/skills_VBA_icon.78c228bdbd1a80b5aa0e.png",
+    "static/media/skills_unity_icon.png": "/Darren_Tung.github.io/static/media/skills_unity_icon.2b203a3b5220e2ae9982.png",
+    "static/media/skills_java_icon.png": "/Darren_Tung.github.io/static/media/skills_java_icon.275f9f3ed9245cd64864.png",
+    "static/media/skills_robotc_icon.webp": "/Darren_Tung.github.io/static/media/skills_robotc_icon.b78429d492492a940e6b.webp",
+    "static/media/skills_Csharp_icon.webp": "/Darren_Tung.github.io/static/media/skills_Csharp_icon.fe531ce21790f26d4a01.webp",
+    "static/media/skills_mongodb_icon.webp": "/Darren_Tung.github.io/static/media/skills_mongodb_icon.c3419e0c8d35f0c668c7.webp",
     "index.html": "/Darren_Tung.github.io/index.html",
-    "main.c6eb6670.css.map": "/Darren_Tung.github.io/static/css/main.c6eb6670.css.map",
-    "main.1c0235d1.js.map": "/Darren_Tung.github.io/static/js/main.1c0235d1.js.map",
+    "main.28b7594c.css.map": "/Darren_Tung.github.io/static/css/main.28b7594c.css.map",
+    "main.635d9324.js.map": "/Darren_Tung.github.io/static/js/main.635d9324.js.map",
     "787.d4aba7ab.chunk.js.map": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6eb6670.css",
-    "static/js/main.1c0235d1.js"
+    "static/css/main.28b7594c.css",
+    "static/js/main.635d9324.js"
   ]
 }
