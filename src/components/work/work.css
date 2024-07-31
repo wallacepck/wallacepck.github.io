@@ -34,7 +34,7 @@
 }
 
 .work__img {
-    width: 295px;
+    width: 320px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
 }
@@ -45,18 +45,25 @@
     margin-bottom: var(--mb-0-5);
 }
 
+.work__backgroundDate {
+    font-size: 0.9rem;
+    color: rgb(21, 21, 21);
+    margin-bottom: 0.75rem;
+    width: 320px;
+}
+
 .work__backgroundTitle {
     font-size: 0.8rem;
     color: black;
     margin-bottom: 0.75rem;
-    width: 295px;
+    width: 320px;
 }
 
 .work__background {
-    font-size: 0.75rem;
+    font-size: 0.8rem;
     color: black;
     margin-bottom: 0.75rem;
-    width: 295px;
+    width: 320px;
 }
 
 .work__button {
