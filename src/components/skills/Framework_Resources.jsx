@@ -11,7 +11,7 @@ import unity_icon from '../../assets/skills_pictures/skills_unity_icon.png'
 import firebase_icon from '../../assets/skills_pictures/skills_firebase_icon.png'
 import git_icon from '../../assets/skills_pictures/skills_git_icon.png'
 import react_icon from '../../assets/skills_pictures/skills_react_icon.png'
-import mongo_icon from '../../assets/skills_pictures/skills_mongodb_icon.webp'
+import mongo_icon from '../../assets/skills_pictures/skills_mongodb_icon.png'
 
 const Backend = () => {
   return (

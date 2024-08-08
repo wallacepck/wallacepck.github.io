@@ -34,34 +34,36 @@
 }
 
 .work__img {
-    width: 320px;
+    width: 340px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
 }
 
 .work__title {
     font-size: var(--normal-font-size);
-    font-weight: var(--font-medium);
+    font-weight: bold;
+    font-size: 1.2rem;
     margin-bottom: var(--mb-0-5);
+    color:black;
 }
 
 .work__backgroundDate {
     font-size: 0.9rem;
-    color: rgb(21, 21, 21);
+    color: rgb(66, 66, 66);
     margin-bottom: 0.75rem;
     width: 320px;
 }
 
 .work__backgroundTitle {
     font-size: 0.8rem;
-    color: black;
+    color: rgb(66, 66, 66);
     margin-bottom: 0.75rem;
     width: 320px;
 }
 
 .work__background {
     font-size: 0.8rem;
-    color: black;
+    color: rgb(66, 66, 66);
     margin-bottom: 0.75rem;
     width: 320px;
 }
