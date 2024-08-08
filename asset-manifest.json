@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Darren_Tung.github.io/static/css/main.28b7594c.css",
-    "main.js": "/Darren_Tung.github.io/static/js/main.635d9324.js",
+    "main.css": "/Darren_Tung.github.io/static/css/main.18753195.css",
+    "main.js": "/Darren_Tung.github.io/static/js/main.f1513a6c.js",
     "static/js/787.d4aba7ab.chunk.js": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js",
     "static/media/profile2.jpg": "/Darren_Tung.github.io/static/media/profile2.46052d54d77fbb86047c.jpg",
     "static/media/profile3.jpg": "/Darren_Tung.github.io/static/media/profile3.ba6f1cac5bc3941e4e90.jpg",
@@ -14,6 +14,7 @@
     "static/media/NRC_Robot.jpg": "/Darren_Tung.github.io/static/media/NRC_Robot.8cfc82468cc496028107.jpg",
     "static/media/FYP_robot1.jpg": "/Darren_Tung.github.io/static/media/FYP_robot1.eb0bd70787fdfa185a4d.jpg",
     "static/media/LegoProject.png": "/Darren_Tung.github.io/static/media/LegoProject.15c1eabe4d27a190083f.png",
+    "static/media/work_PHS.png": "/Darren_Tung.github.io/static/media/work_PHS.4b8a6029d8029b79b4e3.png",
     "static/media/skills_javascript_icon.png": "/Darren_Tung.github.io/static/media/skills_javascript_icon.83f816a137ee2ef5f733.png",
     "static/media/skills_google_app_script_icon.png": "/Darren_Tung.github.io/static/media/skills_google_app_script_icon.bf91e879fed07f7747fd.png",
     "static/media/ParadeStateProj.jpg": "/Darren_Tung.github.io/static/media/ParadeStateProj.831d98c62ba9bf083bb3.jpg",
@@ -22,14 +23,13 @@
     "static/media/skills_java_icon.png": "/Darren_Tung.github.io/static/media/skills_java_icon.275f9f3ed9245cd64864.png",
     "static/media/skills_robotc_icon.webp": "/Darren_Tung.github.io/static/media/skills_robotc_icon.b78429d492492a940e6b.webp",
     "static/media/skills_Csharp_icon.webp": "/Darren_Tung.github.io/static/media/skills_Csharp_icon.fe531ce21790f26d4a01.webp",
-    "static/media/skills_mongodb_icon.webp": "/Darren_Tung.github.io/static/media/skills_mongodb_icon.c3419e0c8d35f0c668c7.webp",
     "index.html": "/Darren_Tung.github.io/index.html",
-    "main.28b7594c.css.map": "/Darren_Tung.github.io/static/css/main.28b7594c.css.map",
-    "main.635d9324.js.map": "/Darren_Tung.github.io/static/js/main.635d9324.js.map",
+    "main.18753195.css.map": "/Darren_Tung.github.io/static/css/main.18753195.css.map",
+    "main.f1513a6c.js.map": "/Darren_Tung.github.io/static/js/main.f1513a6c.js.map",
     "787.d4aba7ab.chunk.js.map": "/Darren_Tung.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28b7594c.css",
-    "static/js/main.635d9324.js"
+    "static/css/main.18753195.css",
+    "static/js/main.f1513a6c.js"
   ]
 }
