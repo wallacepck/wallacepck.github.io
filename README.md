@@ -1,3 +1,6 @@
+# README for my profile website
+Hey, I created this to showcase my resume. I will be updating this code and improving on it once in a while. If anyone wants to clone this, you may do so. If possible, please credit me.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
