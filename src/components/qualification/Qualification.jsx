@@ -95,10 +95,10 @@ const Qualification = () => {
                 }>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Admin & Training Specialist</h3>
-                            <span className="qualification__subtitle">Minstry of Defence (NS)</span>
+                            <h3 className="qualification__title">Software Engineer Intern</h3>
+                            <span className="qualification__subtitle">Backbone Pte. Ltd.</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - 2023
+                                <i className="uil uil-calendar-alt"></i> 2024 - Present
                             </div>
                         </div>
                         <div>
@@ -116,11 +116,25 @@ const Qualification = () => {
                         </div>
 
                         <div>
+                            <h3 className="qualification__title">Admin & Training Specialist</h3>
+                            <span className="qualification__subtitle">Minstry of Defence (NS)</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> 2021 - 2023
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="qualification__data">
+                        <div>
                             <h3 className="qualification__title">Software Engineer Intern</h3>
                             <span className="qualification__subtitle">Defence Science & Technology Agency</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2021 - 2021
                             </div>
+                        </div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
                         </div>
                     </div>
                 </div>
