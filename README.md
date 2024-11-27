@@ -1,5 +1,9 @@
 # README for my profile website
-Hey, I created this to showcase my resume. I will be updating and improving this code occasionally. If anyone wants to clone this, they may do so. Please credit me if possible.
+Hey, I created this to showcase my resume. 
+
+I will be updating and improving this code occasionally. 
+
+If anyone wants to clone this, they may do so. Please credit me if possible.
 
 # Getting Started with Create React App
 
