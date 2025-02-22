@@ -1,5 +1,4 @@
 .contact__container {
-    grid-template-columns: repeat(2, max-content);
     justify-content: center;
     column-gap: 6rem;
     padding-bottom: 3rem;
@@ -20,7 +19,7 @@
 
 .contact__social {
     display: grid;
-    grid-template-columns: repeat(4, max-content);
+    grid-template-columns: repeat(3, max-content);
     justify-content: center;
     margin-top: 2rem;
     row-gap: 1rem;

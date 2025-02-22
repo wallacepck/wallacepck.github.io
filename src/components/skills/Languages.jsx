@@ -17,6 +17,14 @@ const Frontend = () => {
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__data">
+                    <img src={java_icon} alt="" className="skills__img" />
+                    <div>
+                        <h3 className="skills__name">Java</h3>
+                        <span className="skills__level">Expert</span>
+                    </div>
+                </div>
+
+                <div className="skills__data">
                     <img src={python_icon} alt="" className="skills__img" />
                     <div>
                         <h3 className="skills__name">Python</h3>
@@ -25,35 +33,27 @@ const Frontend = () => {
                 </div>
 
                 <div className="skills__data">
-                    <img src={javascript_icon} alt="" className="skills__img" />
-                    <div>
-                        <h3 className="skills__name">JavaScript</h3>
-                        <span className="skills__level">Intermediate</span>
-                    </div>
-                </div>
-
-                <div className="skills__data">
-                    <img src={java_icon} alt="" className="skills__img" />
-                    <div>
-                        <h3 className="skills__name">Java</h3>
-                        <span className="skills__level">Intermediate</span>
-                    </div>
-                </div>
-
-                <div className="skills__data">
                 <img src={VBA_icon} alt="" className="skills__img" />
                     <div>
                         <h3 className="skills__name">Microsoft VBA</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level">Basic</span>
+                    </div>
+                </div>
+
+                <div className="skills__data">
+                    <img src={javascript_icon} alt="" className="skills__img" />
+                    <div>
+                        <h3 className="skills__name">JavaScript</h3>
+                        <span className="skills__level">Basic</span>
                     </div>
                 </div>
             </div>
 
             <div className="skills__group">
                 <div className="skills__data">
-                    <img src={C_icon} alt="" className="skills__img" />
+                    <img src={Csharp_icon} alt="" className="skills__img" />
                     <div>
-                        <h3 className="skills__name">C</h3>
+                        <h3 className="skills__name">C#</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
@@ -67,10 +67,10 @@ const Frontend = () => {
                 </div>
 
                 <div className="skills__data">
-                    <img src={Csharp_icon} alt="" className="skills__img" />
+                    <img src={C_icon} alt="" className="skills__img" />
                     <div>
-                        <h3 className="skills__name">C#</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <h3 className="skills__name">C</h3>
+                        <span className="skills__level">Basic</span>
                     </div>
                 </div>
 

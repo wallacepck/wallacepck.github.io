@@ -1,8 +1,7 @@
 import React from 'react';
 import "./about.css";
-import AboutImg from "../../assets/profile3.jpg";
-import CV from "../../assets/Tung_Yan_Zuo_CV.pdf";
-import resume from "../../assets/Tung_Yan_Zuo_Resume.pdf";
+// import AboutImg from "../../assets/profile3.jpg";
+import resume from "../../assets/Wallace_Technical_Resume.pdf";
 import Info from './Info';
 
 const About = () => {
@@ -12,21 +11,18 @@ const About = () => {
         <span className="section__subtitle">My Introduction</span>
 
         <div className="about__container container grid">
-            <img src={AboutImg} alt="" className="about__img" />
+            {/* <img src={AboutImg} alt="" className="about__img" /> */}
 
             <div className="about__data">
                 <Info />
 
                 <p className="about__description">
                     I'm a highly motivated and technically skilled computer science student known 
-                    for my competitive drive and leadership experience. With a passion for technology, 
-                    I thrive in challenging environments, collaborating effectively within teams and 
+                    for my competitive drive and curious spirit. With a passion for technology, 
+                    I thrive in challenging environments, spearheading innovation and 
                     delivering top-notch results. 
                     <br></br>
                     <br></br>
-                    Active in community service, I also 
-                    bring a holistic perspective to my work, aiming to leverage technology 
-                    for both innovation and societal betterment.
                 </p>
                 
                 <a download="" href={resume} className="button button--flex">

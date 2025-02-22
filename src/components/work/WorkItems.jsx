@@ -13,9 +13,12 @@ const WorkItems = ({item}) => {
           <font color='Black'>Software:</font> {item.backgroundTech}
         </h4>
         <h4 className="work__background">{item.background}</h4>
-        <a href={item.link} className="work__button" target="_blank">
+        {
+          item.link != "" &&
+          <a href={item.link} className="work__button" target="_blank">
             More Details <i className="bx bx-right-arrow-alt work__button-icon"></i>
         </a>
+        }
     </div>
   )
 }
