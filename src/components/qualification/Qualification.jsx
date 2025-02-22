@@ -76,7 +76,7 @@ const Qualification = () => {
                     <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">O Level's</h3>
-                            <span className="qualification__subtitle">West Spring Secondary School</span>
+                            <span className="qualification__subtitle">Bowen Secondary School</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2014 - 2017
                             </div>
@@ -95,10 +95,10 @@ const Qualification = () => {
                 }>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Software Engineer Intern</h3>
-                            <span className="qualification__subtitle">Backbone Pte. Ltd.</span>
+                            <h3 className="qualification__title"></h3>
+                            <span className="qualification__subtitle">A career working on cutting edge technologies!</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2024 - Present
+                                <i className="uil uil-calendar-alt"></i> The Near Future
                             </div>
                         </div>
                         <div>
@@ -116,25 +116,11 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className="qualification__title">Admin & Training Specialist</h3>
+                            <h3 className="qualification__title">Vehicle Technician</h3>
                             <span className="qualification__subtitle">Minstry of Defence (NS)</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2021 - 2023
                             </div>
-                        </div>
-                    </div>
-
-                    <div className="qualification__data">
-                        <div>
-                            <h3 className="qualification__title">Software Engineer Intern</h3>
-                            <span className="qualification__subtitle">Defence Science & Technology Agency</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - 2021
-                            </div>
-                        </div>
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
                         </div>
                     </div>
                 </div>
