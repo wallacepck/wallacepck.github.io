@@ -1,6 +1,7 @@
 import React from 'react';
 import './skills.css';
 import python_icon from '../../assets/skills_pictures/skills_python_icon.jpeg'
+import typescript_icon from '../../assets/skills_pictures/skills_typescript.png'
 import javascript_icon from '../../assets/skills_pictures/skills_javascript_icon.png'
 import java_icon from '../../assets/skills_pictures/skills_java_icon.png'
 import VBA_icon from '../../assets/skills_pictures/skills_VBA_icon.png'
@@ -33,9 +34,9 @@ const Frontend = () => {
                 </div>
 
                 <div className="skills__data">
-                <img src={VBA_icon} alt="" className="skills__img" />
+                <img src={typescript_icon} alt="" className="skills__img" />
                     <div>
-                        <h3 className="skills__name">Microsoft VBA</h3>
+                        <h3 className="skills__name">Typescript</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
