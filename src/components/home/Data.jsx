@@ -56,8 +56,7 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Computer Science Student</h3>
         <p className="home__description">
-            Hello! I'm an enthusiastic guy that loves programming, creativity and technology. 
-            To me, innovation is key, and quality is something we should always strive for.
+            Third Year Computer Science student with a specialisation in Artifical Intelligence, looking to leverage my technical expertise in Machine Learning to enhance Emboddied AI platforms and foster Human-Robot collaboration.
         </p>
         <a href="#contact" className="button button--flex">
             Say Hello

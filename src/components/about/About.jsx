@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 // import AboutImg from "../../assets/profile3.jpg";
-import resume from "../../assets/Wallace_Technical_Resume.pdf";
+import resume from "../../assets/resume.pdf";
 import Info from './Info';
 
 const About = () => {
@@ -17,15 +17,21 @@ const About = () => {
                 <Info />
 
                 <p className="about__description">
-                    I'm a highly motivated and technically skilled computer science student known 
-                    for my competitive drive and curious spirit. With a passion for technology, 
-                    I thrive in challenging environments, spearheading innovation and 
-                    delivering top-notch results. 
+                    During an IoT project I undertook in my polytechnic final year, I discovered the multimodal CLIP model. At the time, I was amazed at how such a descriptive machine learning model could be running smoothly on an average consumer laptop - no frills, no extra work required. It inspired me to go deeper into AI and delve into what is possible.
+                    <br></br>
+                    <br></br>
+                    This led me to pursue a degree in Computer Science at NUS - with a specialization in Artificial Intelligence to further these aspirations. In my second year, I trained an ML model to play Ultimate Tic-Tac-Toe on a compute cluster, and won 2nd place in the inter-course competition.
+                    <br></br>
+                    <br></br>
+                    Now, I am looking towards venturing into the new frontier of embodied AI. I am eager to apply my skills and creativity in a challenging role where I can contribute to innovative AI-driven robotics platforms and learn from seasoned professionals in the field.
+
                     <br></br>
                     <br></br>
                 </p>
-                
-                <a download="" href={resume} className="button button--flex">
+            </div>
+
+            <div className='about__button'>
+              <a download="" href={resume} className="button button--flex">
                   Download Résumé
                   <svg
                     class="button__icon"
@@ -52,7 +58,7 @@ const About = () => {
                     fill="var(--container-color)"
                   ></path>
                   </svg>
-                </a>
+              </a>
             </div>
         </div>
     </section>

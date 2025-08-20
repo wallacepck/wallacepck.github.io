@@ -14,7 +14,7 @@ const WorkItems = ({item}) => {
         </h4>
         <h4 className="work__background">{item.background}</h4>
         {
-          item.link != "" &&
+          item.link && item.link != "" &&
           <a href={item.link} className="work__button" target="_blank">
             More Details <i className="bx bx-right-arrow-alt work__button-icon"></i>
         </a>

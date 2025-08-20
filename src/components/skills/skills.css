@@ -32,6 +32,7 @@
     height: 25px;
     border-radius: 0.25rem;
     justify-self: center;
+    object-fit: contain
 }
 
 .skills__title {
