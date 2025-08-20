@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9c321c0.css",
-    "main.js": "/static/js/main.44c0431f.js",
+    "main.css": "/static/css/main.20523e28.css",
+    "main.js": "/static/js/main.04cd92ed.js",
     "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
     "static/media/work_trackwork.gif": "/static/media/work_trackwork.1dc74c25079e6cc9b867.gif",
     "static/media/work_fall.gif": "/static/media/work_fall.7098d9de79280a66d906.gif",
@@ -9,27 +9,26 @@
     "static/media/work_pose.gif": "/static/media/work_pose.f92b08628c9f79e4058b.gif",
     "static/media/work_brick.gif": "/static/media/work_brick.7a2610f5fdf4896b3521.gif",
     "static/media/work_rsaf.jpg": "/static/media/work_rsaf.a0a309a4c29c0ab643f2.jpg",
-    "static/media/about.png": "/static/media/about.60f9e21ba9e9784099aa.png",
-    "static/media/Wallace_Technical_Resume.pdf": "/static/media/Wallace_Technical_Resume.6910ea0b35e627226e81.pdf",
-    "static/media/skills_firebase_icon.png": "/static/media/skills_firebase_icon.3760741c1e30456d53ff.png",
+    "static/media/work_ambi.png": "/static/media/work_ambi.13665c485cacae22954f.png",
+    "static/media/resume.pdf": "/static/media/resume.0c4e7d98a35cb761d9e3.pdf",
     "static/media/skills_cv2_icon.png": "/static/media/skills_cv2_icon.6c68f4af1ba700bab410.png",
-    "static/media/skills_godot_icon.png": "/static/media/skills_godot_icon.a413952e4dc5a0cd1750.png",
+    "static/media/about.jpg": "/static/media/about.8c796974286ebc2600dc.jpg",
     "static/media/work_PHS.png": "/static/media/work_PHS.4b8a6029d8029b79b4e3.png",
     "static/media/skills_javascript_icon.png": "/static/media/skills_javascript_icon.83f816a137ee2ef5f733.png",
-    "static/media/skills_tensorflow_icon.png": "/static/media/skills_tensorflow_icon.a6cc9491ca644482f25c.png",
-    "static/media/skills_nextjs.png": "/static/media/skills_nextjs.c72482c59ce8f22648a4.png",
+    "static/media/work_uttt.png": "/static/media/work_uttt.67ad04845c58c1f7e8f8.png",
     "static/media/skills_haystack.jpg": "/static/media/skills_haystack.22a39e09e7bddb172271.jpg",
-    "static/media/skills_google_cloud.jpg": "/static/media/skills_google_cloud.47ae34f2fbec1cf58061.jpg",
+    "static/media/skills_webots.png": "/static/media/skills_webots.c9b1187f0d9ee5918573.png",
     "static/media/skills_VBA_icon.png": "/static/media/skills_VBA_icon.78c228bdbd1a80b5aa0e.png",
+    "static/media/skills_aws.png": "/static/media/skills_aws.230c040edf919d74bda7.png",
     "static/media/skills_java_icon.png": "/static/media/skills_java_icon.275f9f3ed9245cd64864.png",
     "static/media/skills_Csharp_icon.webp": "/static/media/skills_Csharp_icon.fe531ce21790f26d4a01.webp",
     "index.html": "/index.html",
-    "main.c9c321c0.css.map": "/static/css/main.c9c321c0.css.map",
-    "main.44c0431f.js.map": "/static/js/main.44c0431f.js.map",
+    "main.20523e28.css.map": "/static/css/main.20523e28.css.map",
+    "main.04cd92ed.js.map": "/static/js/main.04cd92ed.js.map",
     "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9c321c0.css",
-    "static/js/main.44c0431f.js"
+    "static/css/main.20523e28.css",
+    "static/js/main.04cd92ed.js"
   ]
 }
