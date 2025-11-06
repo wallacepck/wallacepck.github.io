@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.20523e28.css",
-    "main.js": "/static/js/main.04cd92ed.js",
+    "main.js": "/static/js/main.ce73c2b4.js",
     "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
-    "static/media/work_trackwork.gif": "/static/media/work_trackwork.1dc74c25079e6cc9b867.gif",
     "static/media/work_fall.gif": "/static/media/work_fall.7098d9de79280a66d906.gif",
     "static/media/work_fyp.gif": "/static/media/work_fyp.108721314fb5a0177a0b.gif",
     "static/media/work_pose.gif": "/static/media/work_pose.f92b08628c9f79e4058b.gif",
@@ -13,6 +12,7 @@
     "static/media/resume.pdf": "/static/media/resume.0c4e7d98a35cb761d9e3.pdf",
     "static/media/skills_cv2_icon.png": "/static/media/skills_cv2_icon.6c68f4af1ba700bab410.png",
     "static/media/about.jpg": "/static/media/about.8c796974286ebc2600dc.jpg",
+    "static/media/work_gameproj1.png": "/static/media/work_gameproj1.32773ba0e1ce21e8b1d0.png",
     "static/media/work_PHS.png": "/static/media/work_PHS.4b8a6029d8029b79b4e3.png",
     "static/media/skills_javascript_icon.png": "/static/media/skills_javascript_icon.83f816a137ee2ef5f733.png",
     "static/media/work_uttt.png": "/static/media/work_uttt.67ad04845c58c1f7e8f8.png",
@@ -24,11 +24,11 @@
     "static/media/skills_Csharp_icon.webp": "/static/media/skills_Csharp_icon.fe531ce21790f26d4a01.webp",
     "index.html": "/index.html",
     "main.20523e28.css.map": "/static/css/main.20523e28.css.map",
-    "main.04cd92ed.js.map": "/static/js/main.04cd92ed.js.map",
+    "main.ce73c2b4.js.map": "/static/js/main.ce73c2b4.js.map",
     "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20523e28.css",
-    "static/js/main.04cd92ed.js"
+    "static/js/main.ce73c2b4.js"
   ]
 }
