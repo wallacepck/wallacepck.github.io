@@ -1,5 +1,5 @@
 import PHS from "../../assets/work_PHS.png"
-import trackwork from "../../assets/work_trackwork.gif"
+import gameproj1 from "../../assets/work_gameproj1.png"
 import ambi from "../../assets/work_ambi.png"
 import uttt from "../../assets/work_uttt.png"
 import fall_project from "../../assets/work_fall.gif";
@@ -44,14 +44,13 @@ export const projectsData = [
     },
       {
       id: 2,
-      image: trackwork,
-      title: "Trackwork",
+      image: gameproj1,
+      title: "Game Project",
       category: "Non-School",
       backgroundDate: "Dec 2023 - Present",
       backgroundTech: "Java, Mixin",
       backgroundTitle: "Personal Project - Author",
-      background: "With over 900 000 downloads as of Aug 2025, Trackwork is a mod for the game Minecraft which adds tracks and wheels to allow vehicle locomotion. I curated this mod over a period of multiple months involving fortnightly user feedback and AGILE development. It is currently open-source and receives ocassional content updates.",
-      link: "https://www.curseforge.com/minecraft/mc-mods/trackwork",
+      background: "With over 1 000 000 downloads as of Nov 2025, I made a mod for the game Minecraft which adds tracks and wheels to allow vehicle locomotion. I curated this mod over a period of multiple months involving fortnightly user feedback and AGILE development. It is currently open-source and receives ocassional content updates.",
     },  
     {
       id: 3,
