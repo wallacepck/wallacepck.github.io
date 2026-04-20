@@ -95,10 +95,10 @@ const Qualification = () => {
                 }>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title"></h3>
-                            <span className="qualification__subtitle">A career working on cutting edge technologies!</span>
+                            <h3 className="qualification__title">Intern III</h3>
+                            <span className="qualification__subtitle">Seagate technology</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> The Near Future
+                                <i className="uil uil-calendar-alt"></i> Jan - Jun 2026
                             </div>
                         </div>
                         <div>

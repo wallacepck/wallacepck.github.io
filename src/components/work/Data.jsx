@@ -1,5 +1,4 @@
 import PHS from "../../assets/work_PHS.png"
-import gameproj1 from "../../assets/work_gameproj1.png"
 import ambi from "../../assets/work_ambi.png"
 import uttt from "../../assets/work_uttt.png"
 import fall_project from "../../assets/work_fall.gif";
@@ -42,16 +41,6 @@ export const projectsData = [
       background: "This is an annual health screening by Public Health Service (PHS). I was part of a team of 4 developers that updated the application to latest requirements, improving the application services in both quality and maintainability. This website has impacted more than 250 users.",
       link: "https://www.publichealthservice.org/health-screening",
     },
-      {
-      id: 2,
-      image: gameproj1,
-      title: "Game Project",
-      category: "Non-School",
-      backgroundDate: "Dec 2023 - Present",
-      backgroundTech: "Java, Mixin",
-      backgroundTitle: "Personal Project - Author",
-      background: "With over 1 000 000 downloads as of Nov 2025, I made a mod for the game Minecraft which adds tracks and wheels to allow vehicle locomotion. I curated this mod over a period of multiple months involving fortnightly user feedback and AGILE development. It is currently open-source and receives ocassional content updates.",
-    },  
     {
       id: 3,
       image: rsaf,
