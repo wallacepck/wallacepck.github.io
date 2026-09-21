@@ -94,20 +94,6 @@ const Qualification = () => {
                         : "qualification__content"
                 }>
                     <div className="qualification__data">
-                        <div>
-                            <h3 className="qualification__title">Intern III</h3>
-                            <span className="qualification__subtitle">Seagate technology</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> Jan - Jun 2026
-                            </div>
-                        </div>
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-                    </div>
-
-                    <div className="qualification__data">
                         <div></div>
 
                         <div>
@@ -115,12 +101,28 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
 
+
+                        <div>
+                            <h3 className="qualification__title">AGV Robotic Fleet Management<br></br>System Engineer</h3>
+                            <span className="qualification__subtitle">Seagate technology</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> Jan - Jun 2026
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">Vehicle Technician</h3>
                             <span className="qualification__subtitle">Minstry of Defence (NS)</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2021 - 2023
                             </div>
+                        </div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
                         </div>
                     </div>
                 </div>

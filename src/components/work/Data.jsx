@@ -6,9 +6,19 @@ import duplo from "../../assets/work_brick.gif";
 import fyp_robot from "../../assets/work_fyp.gif";
 import pose from "../../assets/work_pose.gif";
 import rsaf from "../../assets/work_rsaf.jpg"
-
+import gmm from "../../assets/gmm_mini.gif"
 
 export const projectsData = [
+    {
+      id: -2,
+      image: gmm,
+      title: "Diffusion policy for Navigation",
+      category: "Non-School",
+      backgroundDate: "Oct 2025 - Dec 2025",
+      backgroundTech: "Webots PyTorch, Slurm",
+      backgroundTitle: "Personal Project",
+      background: "Experimented with performance of General Navigation Model policies from NoMaD and FlowNav in a home environment using the Webots Simulator. Additionally, an alternative model architecture was designed, trained and evaluated against these baselines.",
+    },  
     {
       id: -1,
       image: uttt,
