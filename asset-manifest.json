@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.20523e28.css",
-    "main.js": "/static/js/main.a0c3c9af.js",
+    "main.js": "/static/js/main.9c705586.js",
     "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/gmm_mini.gif": "/static/media/gmm_mini.7fb1aef112eab6b6dbfd.gif",
     "static/media/work_fall.gif": "/static/media/work_fall.7098d9de79280a66d906.gif",
     "static/media/work_fyp.gif": "/static/media/work_fyp.108721314fb5a0177a0b.gif",
     "static/media/work_pose.gif": "/static/media/work_pose.f92b08628c9f79e4058b.gif",
@@ -23,11 +24,11 @@
     "static/media/skills_Csharp_icon.webp": "/static/media/skills_Csharp_icon.fe531ce21790f26d4a01.webp",
     "index.html": "/index.html",
     "main.20523e28.css.map": "/static/css/main.20523e28.css.map",
-    "main.a0c3c9af.js.map": "/static/js/main.a0c3c9af.js.map",
+    "main.9c705586.js.map": "/static/js/main.9c705586.js.map",
     "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20523e28.css",
-    "static/js/main.a0c3c9af.js"
+    "static/js/main.9c705586.js"
   ]
 }
